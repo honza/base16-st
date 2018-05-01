@@ -1,5 +1,5 @@
 /*
-* base16-grayscale-dark-theme.h 
+* base16-grayscale-dark-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

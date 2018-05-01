@@ -1,5 +1,5 @@
 /*
-* base16-seti-theme.h 
+* base16-seti-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

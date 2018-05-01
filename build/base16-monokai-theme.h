@@ -1,5 +1,5 @@
 /*
-* base16-monokai-theme.h 
+* base16-monokai-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

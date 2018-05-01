@@ -1,5 +1,5 @@
 /*
-* base16-harmonic-dark-theme.h 
+* base16-harmonic-dark-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

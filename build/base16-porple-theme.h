@@ -1,5 +1,5 @@
 /*
-* base16-porple-theme.h 
+* base16-porple-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

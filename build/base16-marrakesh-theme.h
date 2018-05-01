@@ -1,5 +1,5 @@
 /*
-* base16-marrakesh-theme.h 
+* base16-marrakesh-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

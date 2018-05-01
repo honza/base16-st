@@ -1,5 +1,5 @@
 /*
-* base16-spacemacs-theme.h 
+* base16-spacemacs-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

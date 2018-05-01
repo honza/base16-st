@@ -1,5 +1,5 @@
 /*
-* base16-codeschool-theme.h 
+* base16-codeschool-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

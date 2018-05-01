@@ -1,5 +1,5 @@
 /*
-* base16-pico-theme.h 
+* base16-pico-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

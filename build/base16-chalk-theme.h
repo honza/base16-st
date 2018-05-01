@@ -1,5 +1,5 @@
 /*
-* base16-chalk-theme.h 
+* base16-chalk-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

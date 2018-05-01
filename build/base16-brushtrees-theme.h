@@ -1,5 +1,5 @@
 /*
-* base16-brushtrees-theme.h 
+* base16-brushtrees-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

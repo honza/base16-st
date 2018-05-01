@@ -1,5 +1,5 @@
 /*
-* base16-oceanicnext-theme.h 
+* base16-oceanicnext-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

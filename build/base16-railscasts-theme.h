@@ -1,5 +1,5 @@
 /*
-* base16-railscasts-theme.h 
+* base16-railscasts-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

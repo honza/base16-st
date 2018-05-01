@@ -1,5 +1,5 @@
 /*
-* base16-greenscreen-theme.h 
+* base16-greenscreen-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

@@ -1,5 +1,5 @@
 /*
-* base16-flat-theme.h 
+* base16-flat-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

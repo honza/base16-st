@@ -1,5 +1,5 @@
 /*
-* base16-apathy-theme.h 
+* base16-apathy-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

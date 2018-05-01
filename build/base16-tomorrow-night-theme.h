@@ -1,5 +1,5 @@
 /*
-* base16-tomorrow-night-theme.h 
+* base16-tomorrow-night-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

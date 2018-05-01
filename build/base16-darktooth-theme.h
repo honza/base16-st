@@ -1,5 +1,5 @@
 /*
-* base16-darktooth-theme.h 
+* base16-darktooth-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

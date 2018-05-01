@@ -1,5 +1,5 @@
 /*
-* base16-shapeshifter-theme.h 
+* base16-shapeshifter-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

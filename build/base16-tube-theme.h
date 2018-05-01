@@ -1,5 +1,5 @@
 /*
-* base16-tube-theme.h 
+* base16-tube-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

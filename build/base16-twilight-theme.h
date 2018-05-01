@@ -1,5 +1,5 @@
 /*
-* base16-twilight-theme.h 
+* base16-twilight-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

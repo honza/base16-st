@@ -1,5 +1,5 @@
 /*
-* base16-pop-theme.h 
+* base16-pop-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

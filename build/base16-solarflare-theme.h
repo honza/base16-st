@@ -1,5 +1,5 @@
 /*
-* base16-solarflare-theme.h 
+* base16-solarflare-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

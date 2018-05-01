@@ -1,5 +1,5 @@
 /*
-* base16-atelier-estuary-light-theme.h 
+* base16-atelier-estuary-light-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

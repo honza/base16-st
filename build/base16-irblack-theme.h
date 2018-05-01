@@ -1,5 +1,5 @@
 /*
-* base16-irblack-theme.h 
+* base16-irblack-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

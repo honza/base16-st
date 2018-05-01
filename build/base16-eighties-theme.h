@@ -1,5 +1,5 @@
 /*
-* base16-eighties-theme.h 
+* base16-eighties-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

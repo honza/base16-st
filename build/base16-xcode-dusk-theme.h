@@ -1,5 +1,5 @@
 /*
-* base16-xcode-dusk-theme.h 
+* base16-xcode-dusk-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

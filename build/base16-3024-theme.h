@@ -1,5 +1,5 @@
 /*
-* base16-3024-theme.h 
+* base16-3024-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

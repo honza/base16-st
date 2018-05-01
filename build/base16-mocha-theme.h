@@ -1,5 +1,5 @@
 /*
-* base16-mocha-theme.h 
+* base16-mocha-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

@@ -1,5 +1,5 @@
 /*
-* base16-material-theme.h 
+* base16-material-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

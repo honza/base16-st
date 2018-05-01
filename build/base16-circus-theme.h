@@ -1,5 +1,5 @@
 /*
-* base16-circus-theme.h 
+* base16-circus-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

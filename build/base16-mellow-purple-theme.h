@@ -1,5 +1,5 @@
 /*
-* base16-mellow-purple-theme.h 
+* base16-mellow-purple-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

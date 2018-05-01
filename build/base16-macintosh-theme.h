@@ -1,5 +1,5 @@
 /*
-* base16-macintosh-theme.h 
+* base16-macintosh-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

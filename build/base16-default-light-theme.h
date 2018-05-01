@@ -1,5 +1,5 @@
 /*
-* base16-default-light-theme.h 
+* base16-default-light-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

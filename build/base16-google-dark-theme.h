@@ -1,5 +1,5 @@
 /*
-* base16-google-dark-theme.h 
+* base16-google-dark-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

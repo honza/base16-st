@@ -1,5 +1,5 @@
 /*
-* base16-embers-theme.h 
+* base16-embers-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

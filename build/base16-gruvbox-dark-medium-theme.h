@@ -1,5 +1,5 @@
 /*
-* base16-gruvbox-dark-medium-theme.h 
+* base16-gruvbox-dark-medium-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *

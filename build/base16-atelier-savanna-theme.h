@@ -1,5 +1,5 @@
 /*
-* base16-atelier-savanna-theme.h 
+* base16-atelier-savanna-theme.h
 *
 * Base16: (https://github.com/chriskempson/base16)
 *
