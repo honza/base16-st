@@ -10,31 +10,27 @@
 *
 */
 
+
 static const char *colorname[] = {
-  "#282a2b", /* base01 */
+  "#151718", /* base00 */
   "#cd3f45", /* base08 */
   "#9fca56", /* base0B */
   "#e6cd69", /* base0A */
   "#55b5db", /* base0D */
-  "#8a553f", /* base0F */
-  "#55dbbe", /* base0C */
-  "#eeeeee", /* base06 */
-  "#151718", /* base00 */
-  "#db7b55", /* base09 */
-  "#3b758c", /* base02 */
-  "#41535b", /* base03 */
-  "#43a5d5", /* base04 */
   "#a074c4", /* base0E */
+  "#55dbbe", /* base0C */
   "#d6d6d6", /* base05 */
+  "#41535b", /* base03 */
+  "#db7b55", /* base09 */
+  "#282a2b", /* base01 */
+  "#3b758c", /* base02 */
+  "#43a5d5", /* base04 */
+  "#eeeeee", /* base06 */
+  "#8a553f", /* base0F */
   "#ffffff", /* base07 */
 };
 
-/*
-* Default colors (colorname index)
-* foreground, background, cursor, reverse
-* cursor
-*/
-unsigned int defaultfg = 12;
-unsigned int defaultbg = 8;
-static unsigned int defaultcs = 14;
-static unsigned int defaultrcs = 15;
+unsigned int defaultfg = 7;
+unsigned int defaultbg = 0;
+static unsigned int defaultcs = 13;
+static unsigned int defaultrcs = 0;
