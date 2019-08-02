@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Heetch Light scheme by Geoffrey Teale (tealeg@gmail.com)
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#feffff", /* black   */
++	[1] = "#27d9d5", /* red     */
++	[2] = "#f80059", /* green   */
++	[3] = "#5ba2b6", /* yellow  */
++	[4] = "#47f9f5", /* blue    */
++	[5] = "#bd0152", /* magenta */
++	[6] = "#c33678", /* cyan    */
++	[7] = "#5a496e", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#9c92a8", /* black   */
++	[9]  = "#27d9d5", /* red     */
++	[10] = "#f80059", /* green   */
++	[11] = "#5ba2b6", /* yellow  */
++	[12] = "#47f9f5", /* blue    */
++	[13] = "#bd0152", /* magenta */
++	[14] = "#c33678", /* cyan    */
++	[15] = "#190134", /* white   */
  
  	[255] = 0,
  

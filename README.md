@@ -10,8 +10,9 @@ single theme but a set of guidelines with numerous implementations.
 Installation
 ------------
 
-Pick your favorite theme from the `build/` directory, and place its contents
-into you `config.h` file.
+Use `patch` to apply the .diff file corresponding to your chosen color
+scheme in the `diffs/` directory to `config.def.h`, as per standard suckless
+patching protocol.
 
 License
 -------

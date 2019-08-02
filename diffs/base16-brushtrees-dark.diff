@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Brush Trees Dark scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#485867", /* black   */
++	[1] = "#b38686", /* red     */
++	[2] = "#87b386", /* green   */
++	[3] = "#aab386", /* yellow  */
++	[4] = "#868cb3", /* blue    */
++	[5] = "#b386b2", /* magenta */
++	[6] = "#86b3b3", /* cyan    */
++	[7] = "#B0C5C8", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#8299A1", /* black   */
++	[9]  = "#b38686", /* red     */
++	[10] = "#87b386", /* green   */
++	[11] = "#aab386", /* yellow  */
++	[12] = "#868cb3", /* blue    */
++	[13] = "#b386b2", /* magenta */
++	[14] = "#86b3b3", /* cyan    */
++	[15] = "#E3EFEF", /* white   */
  
  	[255] = 0,
  

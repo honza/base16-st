@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Brogrammer scheme by Vik Ramanujam (http://github.com/piggyslasher)
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#1f1f1f", /* black   */
++	[1] = "#d6dbe5", /* red     */
++	[2] = "#f3bd09", /* green   */
++	[3] = "#1dd361", /* yellow  */
++	[4] = "#5350b9", /* blue    */
++	[5] = "#0f7ddb", /* magenta */
++	[6] = "#1081d6", /* cyan    */
++	[7] = "#4e5ab7", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#ecba0f", /* black   */
++	[9]  = "#d6dbe5", /* red     */
++	[10] = "#f3bd09", /* green   */
++	[11] = "#1dd361", /* yellow  */
++	[12] = "#5350b9", /* blue    */
++	[13] = "#0f7ddb", /* magenta */
++	[14] = "#1081d6", /* cyan    */
++	[15] = "#d6dbe5", /* white   */
  
  	[255] = 0,
  

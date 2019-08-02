@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Marrakesh scheme by Alexandre Gavioli (http://github.com/Alexx2/)
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#201602", /* black   */
++	[1] = "#c35359", /* red     */
++	[2] = "#18974e", /* green   */
++	[3] = "#a88339", /* yellow  */
++	[4] = "#477ca1", /* blue    */
++	[5] = "#8868b3", /* magenta */
++	[6] = "#75a738", /* cyan    */
++	[7] = "#948e48", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#6c6823", /* black   */
++	[9]  = "#c35359", /* red     */
++	[10] = "#18974e", /* green   */
++	[11] = "#a88339", /* yellow  */
++	[12] = "#477ca1", /* blue    */
++	[13] = "#8868b3", /* magenta */
++	[14] = "#75a738", /* cyan    */
++	[15] = "#faf0a5", /* white   */
  
  	[255] = 0,
  

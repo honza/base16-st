@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * XCode Dusk scheme by Elsa Gonsiorowski (https://github.com/gonsie)
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#282B35", /* black   */
++	[1] = "#B21889", /* red     */
++	[2] = "#DF0002", /* green   */
++	[3] = "#438288", /* yellow  */
++	[4] = "#790EAD", /* blue    */
++	[5] = "#B21889", /* magenta */
++	[6] = "#00A0BE", /* cyan    */
++	[7] = "#939599", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#686A71", /* black   */
++	[9]  = "#B21889", /* red     */
++	[10] = "#DF0002", /* green   */
++	[11] = "#438288", /* yellow  */
++	[12] = "#790EAD", /* blue    */
++	[13] = "#B21889", /* magenta */
++	[14] = "#00A0BE", /* cyan    */
++	[15] = "#BEBFC2", /* white   */
  
  	[255] = 0,
  

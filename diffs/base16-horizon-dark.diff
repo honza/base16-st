@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Horizon Dark scheme by Michaël Ball (http://github.com/michael-ball/)
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#1C1E26", /* black   */
++	[1] = "#E93C58", /* red     */
++	[2] = "#EFAF8E", /* green   */
++	[3] = "#EFB993", /* yellow  */
++	[4] = "#DF5273", /* blue    */
++	[5] = "#B072D1", /* magenta */
++	[6] = "#24A8B4", /* cyan    */
++	[7] = "#CBCED0", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#6F6F70", /* black   */
++	[9]  = "#E93C58", /* red     */
++	[10] = "#EFAF8E", /* green   */
++	[11] = "#EFB993", /* yellow  */
++	[12] = "#DF5273", /* blue    */
++	[13] = "#B072D1", /* magenta */
++	[14] = "#24A8B4", /* cyan    */
++	[15] = "#E3E6EE", /* white   */
  
  	[255] = 0,
  

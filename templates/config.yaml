@@ -1,3 +1,3 @@
 default:
-    extension: -theme.h
-    output: build
+    extension: .diff
+    output: diffs

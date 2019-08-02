@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Material Palenight scheme by Nate Peterson
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#292D3E", /* black   */
++	[1] = "#F07178", /* red     */
++	[2] = "#C3E88D", /* green   */
++	[3] = "#FFCB6B", /* yellow  */
++	[4] = "#82AAFF", /* blue    */
++	[5] = "#C792EA", /* magenta */
++	[6] = "#89DDFF", /* cyan    */
++	[7] = "#959DCB", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#676E95", /* black   */
++	[9]  = "#F07178", /* red     */
++	[10] = "#C3E88D", /* green   */
++	[11] = "#FFCB6B", /* yellow  */
++	[12] = "#82AAFF", /* blue    */
++	[13] = "#C792EA", /* magenta */
++	[14] = "#89DDFF", /* cyan    */
++	[15] = "#FFFFFF", /* white   */
  
  	[255] = 0,
  

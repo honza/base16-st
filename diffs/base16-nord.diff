@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Nord scheme by arcticicestudio
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#2E3440", /* black   */
++	[1] = "#88C0D0", /* red     */
++	[2] = "#BF616A", /* green   */
++	[3] = "#5E81AC", /* yellow  */
++	[4] = "#EBCB8B", /* blue    */
++	[5] = "#A3BE8C", /* magenta */
++	[6] = "#D08770", /* cyan    */
++	[7] = "#E5E9F0", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#4C566A", /* black   */
++	[9]  = "#88C0D0", /* red     */
++	[10] = "#BF616A", /* green   */
++	[11] = "#5E81AC", /* yellow  */
++	[12] = "#EBCB8B", /* blue    */
++	[13] = "#A3BE8C", /* magenta */
++	[14] = "#D08770", /* cyan    */
++	[15] = "#8FBCBB", /* white   */
  
  	[255] = 0,
  

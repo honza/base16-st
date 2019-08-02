@@ -8,7 +8,7 @@ index 0e01717..0c9c2a0 100644
  
 -/* Terminal colors (16 first used in escape sequence) */
 +/*
-+ * {{scheme-name}} scheme by {{scheme-author}}
++ * Solar Flare scheme by Chuck Harmston (https://chuck.harmston.ch)
 + * Base16 st template by:
 + * Honza Pokorny <me@honza.ca>
 + * Daniel Mulford (github.com/dgmulf)
@@ -24,14 +24,14 @@ index 0e01717..0c9c2a0 100644
 -	"cyan3",
 -	"gray90",
 +    /* 8 normal colors */
-+	[0] = "#{{base00-hex}}", /* black   */
-+	[1] = "#{{base08-hex}}", /* red     */
-+	[2] = "#{{base0B-hex}}", /* green   */
-+	[3] = "#{{base0A-hex}}", /* yellow  */
-+	[4] = "#{{base0D-hex}}", /* blue    */
-+	[5] = "#{{base0E-hex}}", /* magenta */
-+	[6] = "#{{base0C-hex}}", /* cyan    */
-+	[7] = "#{{base05-hex}}", /* white   */
++	[0] = "#18262F", /* black   */
++	[1] = "#EF5253", /* red     */
++	[2] = "#7CC844", /* green   */
++	[3] = "#E4B51C", /* yellow  */
++	[4] = "#33B5E1", /* blue    */
++	[5] = "#A363D5", /* magenta */
++	[6] = "#52CBB0", /* cyan    */
++	[7] = "#A6AFB8", /* white   */
  
  	/* 8 bright colors */
 -	"gray50",
@@ -42,14 +42,14 @@ index 0e01717..0c9c2a0 100644
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8]  = "#{{base03-hex}}", /* black   */
-+	[9]  = "#{{base08-hex}}", /* red     */
-+	[10] = "#{{base0B-hex}}", /* green   */
-+	[11] = "#{{base0A-hex}}", /* yellow  */
-+	[12] = "#{{base0D-hex}}", /* blue    */
-+	[13] = "#{{base0E-hex}}", /* magenta */
-+	[14] = "#{{base0C-hex}}", /* cyan    */
-+	[15] = "#{{base07-hex}}", /* white   */
++	[8]  = "#667581", /* black   */
++	[9]  = "#EF5253", /* red     */
++	[10] = "#7CC844", /* green   */
++	[11] = "#E4B51C", /* yellow  */
++	[12] = "#33B5E1", /* blue    */
++	[13] = "#A363D5", /* magenta */
++	[14] = "#52CBB0", /* cyan    */
++	[15] = "#F5F7FA", /* white   */
  
  	[255] = 0,
  
